@@ -1,6 +1,10 @@
-**
-.*
 *
-**/.*
+.*
+!*/
+Desktop/
+.cache
+.cargo
 
+!.config/waybar/**
+!.config/hypr/**
 
